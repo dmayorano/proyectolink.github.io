@@ -1,0 +1,94 @@
+body {
+    background-color: #A02334 ;
+    margin: 0%;
+    padding: 0%;
+}
+
+h3 {
+    
+    border-width: 3px;
+    border-style: solid;
+    border-color: #229799;
+    
+}
+
+.botones {
+    
+    background-color: #229799;
+    padding: 10px, 10px;
+    border-radius: 4 px;
+    background-image: linear-gradient(#a35303c7, #dfbc0f);
+}
+
+h1{
+    border-width: 3px;
+    border-style: solid;
+    border-color: #229799;
+    border-radius: 2px;
+}
+
+.Fondo{
+    position: static;
+    background-color: azure;
+    height: 100vh;
+
+
+
+}
+
+.Menu{
+    position: static;
+    background-image: linear-gradient( rgb(228, 218, 105), #d2ff60);
+    border-style: double;
+    height: 90vh;
+    width: 220px;
+    border: solid;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 15px;
+
+}
+
+
+.contenido{
+    position: static;
+    display: inline-block;
+    background-image: linear-gradient( rgb(228, 218, 105), #d2ff60);
+    border-style: double;
+    height: 90vh;
+    width: 181.5vh;
+    border: solid;
+    vertical-align: top;
+    text-align: center;
+    border-radius: 15px;
+}
+.footer {
+    border-radius: 25px;
+    color: aliceblue;
+    border-width: 5px;
+    border-style: double;
+    border-color: #FFAD60;
+    text-align: center;
+    display: flow-root;
+    height: 58px;
+    color: black;
+    background-image: linear-gradient(#229799, #d2ff60);
+
+}
+
+.uno{
+    position: static;
+    padding-left: px;
+    padding-right: 25px;
+    background-color: beige;
+    height: 8vh;
+    border-width: 4px;
+    border-radius: 10px;
+}
+
+
+.uno:hover{
+    background: rgb(105, 228, 105);
+}
